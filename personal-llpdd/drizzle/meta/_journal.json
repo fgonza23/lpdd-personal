@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1724092911563,
+      "tag": "20240819184151_init_orgs_events_contacts",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1724093118930,
+      "tag": "20240819184518_rename_column_website_url",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1724093158043,
+      "tag": "20240819184558_drop_events_table",
+      "breakpoints": true
+    }
+  ]
+}
